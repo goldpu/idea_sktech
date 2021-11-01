@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T07:27:11.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.6.3" etag="a6ykDlYvhXD-y0v5WBBV" type="github"><diagram id="SfmxrUFou-6LcBXw3Hu-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-01T08:56:07.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="XZMjQXT4g52IeYgjQ28v" version="15.6.3" type="github">
+  <diagram id="SfmxrUFou-6LcBXw3Hu-" name="Page-1">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-1" value="AMD5NAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-2" value="&lt;h1&gt;DataServer&lt;/h1&gt;&lt;p&gt;기존 NAS 활용 컴퓨터를 Data서버로 구성하여 활용&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-3" value="맥미니 (일종의 콘솔)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-4" value="맥북 (코드수정)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-5" value="AMD Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-6" value="&lt;h1&gt;연산Server&lt;/h1&gt;&lt;p&gt;쿠다코어를 이용한 연산 서버&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="60" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.417;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eFVFxHbqo3V_Pr6H8Rke-3" target="eFVFxHbqo3V_Pr6H8Rke-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="600" as="sourcePoint" />
+            <mxPoint x="930" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eFVFxHbqo3V_Pr6H8Rke-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="130" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-9" value="메인코드 활용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eFVFxHbqo3V_Pr6H8Rke-4" target="eFVFxHbqo3V_Pr6H8Rke-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="590" as="sourcePoint" />
+            <mxPoint x="930" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
