@@ -1,47 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T11:37:52.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="61wpv36lQAhfkh3DM25Y" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T10:45:56.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WUwWZnViTdNNLfT_P1mm" version="15.6.5" type="github">
   <diagram id="SfmxrUFou-6LcBXw3Hu-" name="Page-1">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="820" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-1" value="AMD5NAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-1" value="AMD5NAS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-2" value="&lt;h1&gt;DataServer&lt;/h1&gt;&lt;p&gt;기존 NAS 활용 컴퓨터를 Data서버로 구성하여 활용&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-2" value="&lt;h1&gt;DataServer&lt;/h1&gt;&lt;p&gt;기존 NAS 활용 컴퓨터를 Data서버로 구성하여 활용&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="60" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-3" value="맥미니 (일종의 콘솔)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-3" value="맥미니 (일종의 콘솔)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-4" value="맥북 (코드수정)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-4" value="맥북 (코드수정)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-5" value="AMD Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-5" value="AMD Main" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-6" value="&lt;h1&gt;연산Server&lt;/h1&gt;&lt;p&gt;쿠다코어를 이용한 연산 서버&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-6" value="&lt;h1&gt;연산Server&lt;/h1&gt;&lt;p&gt;쿠다코어를 이용한 연산 서버&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="60" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.417;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eFVFxHbqo3V_Pr6H8Rke-3" target="eFVFxHbqo3V_Pr6H8Rke-1">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.417;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="eFVFxHbqo3V_Pr6H8Rke-3" target="eFVFxHbqo3V_Pr6H8Rke-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="600" as="sourcePoint" />
             <mxPoint x="930" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eFVFxHbqo3V_Pr6H8Rke-5">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="eFVFxHbqo3V_Pr6H8Rke-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="260" as="sourcePoint" />
             <mxPoint x="130" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-9" value="메인코드 활용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-9" value="메인코드 활용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="260" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eFVFxHbqo3V_Pr6H8Rke-4" target="eFVFxHbqo3V_Pr6H8Rke-3">
+        <mxCell id="eFVFxHbqo3V_Pr6H8Rke-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eFVFxHbqo3V_Pr6H8Rke-4" target="eFVFxHbqo3V_Pr6H8Rke-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="590" as="sourcePoint" />
             <mxPoint x="930" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XF7bN8KlJmymU3HNR2Z6-1" value="Maybe M2 AIR??&lt;br&gt;아니면 그냥 프로 사버려?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XF7bN8KlJmymU3HNR2Z6-2" value="&lt;h1&gt;IPTIME&amp;nbsp;&lt;/h1&gt;&lt;p&gt;공유기에 검정색 외장하드 붙여서 영상전용 나스로 만들면 좋을것 같은데 TV 영화 같은것들 위주로&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
