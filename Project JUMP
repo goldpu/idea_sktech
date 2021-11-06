@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T10:45:56.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WUwWZnViTdNNLfT_P1mm" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T02:58:18.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="KzBgALRAepa-38W6V8aK" version="15.7.0" type="github">
   <diagram id="SfmxrUFou-6LcBXw3Hu-" name="Page-1">
-    <mxGraphModel dx="820" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,11 +43,11 @@
             <mxPoint x="930" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XF7bN8KlJmymU3HNR2Z6-1" value="Maybe M2 AIR??&lt;br&gt;아니면 그냥 프로 사버려?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="430" y="400" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XF7bN8KlJmymU3HNR2Z6-2" value="&lt;h1&gt;IPTIME&amp;nbsp;&lt;/h1&gt;&lt;p&gt;공유기에 검정색 외장하드 붙여서 영상전용 나스로 만들면 좋을것 같은데 TV 영화 같은것들 위주로&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="XF7bN8KlJmymU3HNR2Z6-2" value="&lt;h1&gt;IPTIME&amp;nbsp;&lt;/h1&gt;&lt;p&gt;공유기에 검정색 외장하드 붙여서 영상전용 나스로 만들면 좋을것 같은데 TV 영화 같은것들 위주로&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="630" y="170" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wgCKiVUwFfPIUF9w5gBk-1" value="Mac Mini" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="510" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
